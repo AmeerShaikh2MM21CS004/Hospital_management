@@ -19,6 +19,12 @@ SET time_zone = "+00:00";
 
 --
 -- Database: `hms`
+-- Create the database if it doesn't exist
+CREATE DATABASE IF NOT EXISTS hms;
+
+-- Use the newly created or existing database
+USE hms;
+
 --
 
 -- --------------------------------------------------------
