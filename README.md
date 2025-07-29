@@ -1,4 +1,4 @@
-# Hospital_management# 🏥 Hospital Management System
+# 🏥 Hospital Management System
 
 This is a web-based Hospital Management System built using **Flask** and **MySQL**. It allows users to manage patient bookings, view appointments, edit or delete entries, and handle hospital slot scheduling efficiently.
 
